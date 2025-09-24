@@ -1,4 +1,4 @@
-```
+```markdown
 # Best Time to Buy and Sell Stock (LeetCode Problem 121)
 
 ## Problem Statement
@@ -52,8 +52,8 @@ No transactions can be done, so the profit is 0.
 ---
 
 ## Constraints
-- `1 <= prices.length <= 10^5`  
-- `0 <= prices[i] <= 10^4`  
+- 1 <= prices.length <= 10^5  
+- 0 <= prices[i] <= 10^4  
 
 ---
 
@@ -64,15 +64,13 @@ No transactions can be done, so the profit is 0.
 - Return the maximum profit at the end.  
 
 ### Time Complexity:
-- **O(n)** — single pass through the array.  
+- O(n) — single pass through the array.  
 
 ### Space Complexity:
-- **O(1)** — constant extra space.  
+- O(1) — constant extra space.  
 
 ---
 
 ## Author
 **Elisa**
 ```
-
-
