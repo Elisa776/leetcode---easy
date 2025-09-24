@@ -1,4 +1,4 @@
-```markdown
+```
 # Best Time to Buy and Sell Stock (LeetCode Problem 121)
 
 ## Problem Statement
@@ -8,7 +8,6 @@ You want to maximize your profit by choosing a single day to buy one stock and c
 
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return `0`.  
 
----
 
 ### Example 1:
 **Input:**
@@ -49,8 +48,6 @@ prices = \[7,6,4,3,1]
 **Explanation:**  
 No transactions can be done, so the profit is 0.  
 
----
-
 ## Constraints
 - 1 <= prices.length <= 10^5  
 - 0 <= prices[i] <= 10^4  
@@ -69,7 +66,7 @@ No transactions can be done, so the profit is 0.
 ### Space Complexity:
 - O(1) — constant extra space.  
 
----
+
 
 ## Author
 **Elisa**
